@@ -33,6 +33,8 @@ sam9x60ek_dtbos: $(SAM9X60EK_DTBO_OBJECTS)
 
 sama5d27_som1_ek_dtbos: $(SAMA5D27_SOM1_EK_DTBO_OBJECTS)
 
+gooligum_test_dtbos:
+
 sama5d2_icp_dtbos: $(SAMA5D2_icp_DTBO_OBJECTS)
 
 sama5d2_ptc_ek_dtbos: $(SAMA5D2_PTC_DTBO_OBJECTS)
